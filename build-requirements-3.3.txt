@@ -1,6 +1,6 @@
 enum34
 coverage<5.0
-hypothesis<3.44
+hypothesis<6.0.4
 coveralls
 pylint
 diff_cover<2.5.0
