@@ -9,3 +9,4 @@ pylint
 diff_cover
 pycparser<2.19
 idna<2.8
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
