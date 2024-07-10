@@ -6,3 +6,4 @@ pylint
 mock
 diff_cover<2.5.0
 pytest>=4.6.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
