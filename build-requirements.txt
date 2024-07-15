@@ -5,3 +5,4 @@ pylint
 diff_cover
 pytest>=4.6.5
 pluggy>=0.7
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
